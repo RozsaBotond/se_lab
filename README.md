@@ -10,7 +10,7 @@ The application is simplified and deliberately contains bugs.
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
 
-Clone the repository and execute Maven to build the app:
+Clone the rep and execute Maven to build the app:
 
 ```
 mvn compile
